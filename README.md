@@ -26,6 +26,3 @@
 > todo y ya luego se sigue en ramas.
 
 
-
-
-# bibliography
